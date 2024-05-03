@@ -1,3 +1,3 @@
 <?php
 
-const DB_FILE = 'database.db';
+const DB_FILE = 'src/db/database.db';
